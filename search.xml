@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>nice try</title>
+      <link href="/2019/08/06/nice-try/"/>
+      <url>/2019/08/06/nice-try/</url>
+      
+        <content type="html"><![CDATA[<p>一个方案：</p><p>加速度值/速度值/记录时间/车辆唯一标识/加速减速状态</p><p>碰撞时间/购买时间/碰撞状态/购买人性别/购买人出生年月日/车辆品牌/车辆系列/车里唯一标识</p><h1 id="对杨学长前段工作的总结"><a href="#对杨学长前段工作的总结" class="headerlink" title="对杨学长前段工作的总结"></a>对杨学长前段工作的总结</h1><p>车辆基本信息数据，经纬度数据，速度加速度数据</p><p>得出 车辆基本特征，驾驶者基本特征，驾驶行为特征，其他外部因子</p><p>时间跨度：2018年1月-2019年4月</p><p>车辆基本信息数据</p><p>碰撞时间，碰撞状况，购买时间  车主信息：年龄，出生时间， 车型</p><p>买了多久撞了</p><p>不清楚：不知道那个进站是什么情况</p><p>车辆经纬度数据表</p><p>经纬度，记录的时间，速度</p><p>可以算有关经纬度相关的东西，还可以记录他的运行速度</p><p>速度加速度数据表</p><p>加速度值/速度值/记录时间</p><p>找到碰撞车辆的碰撞时间，分析其碰撞前一段时间的运行状况，并和之前状况进行一定程度的对比</p><h2 id="杨学长的现有特征"><a href="#杨学长的现有特征" class="headerlink" title="杨学长的现有特征"></a>杨学长的现有特征</h2><p>以是否碰撞为区分</p><p>夜间驾驶天数，周末出行天数，疲劳驾驶疲惫频率，日均驾驶距离，覆盖区域熵，碰撞车辆经常去一些陌生区域，对于陌生区域不熟悉会增加事故率发生</p><p>还可以观察一下，发生碰撞的车辆中，车辆在不熟悉区域发生碰撞的比例</p><p>平均速度、速度方差、怠速占比，超速占比，平均加速度</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2019/08/06/hello-world/"/>
+      <url>/2019/08/06/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
