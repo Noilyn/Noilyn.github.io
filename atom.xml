@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="hhttps://noilyn.github.io/"/>
-  <updated>2019-08-08T15:06:12.041Z</updated>
+  <updated>2019-08-09T15:50:22.427Z</updated>
   <id>hhttps://noilyn.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>吴恩达机器学习1</title>
+    <link href="hhttps://noilyn.github.io/2019/08/09/wu-en-da-ji-qi-xue-xi-1/"/>
+    <id>hhttps://noilyn.github.io/2019/08/09/wu-en-da-ji-qi-xue-xi-1/</id>
+    <published>2019-08-09T15:48:14.000Z</published>
+    <updated>2019-08-09T15:50:22.427Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;机器学习&lt;/p&gt;
+&lt;p&gt;a computer program is said to learn from experience E with respect to some task T and some performance measure P, if its
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>关于健身变瘦的一些问题的回答搜集</title>
@@ -53,8 +76,9 @@
       
         
         
-          &lt;h1 id=&quot;口语&quot;&gt;&lt;a href=&quot;#口语&quot; class=&quot;headerlink&quot; title=&quot;口语&quot;&gt;&lt;/a&gt;口语&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;【关于激励Motivation】&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;　　词组：light up, push oneself,
+          &lt;h1 id=&quot;口语&quot;&gt;口语&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;【关于激励Motivation】&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;　　词组：light up, push oneself, be destructive to s/th, tap the potential,
         
       
     
@@ -105,7 +129,7 @@
           &lt;p&gt;一个方案：&lt;/p&gt;
 &lt;p&gt;加速度值/速度值/记录时间/车辆唯一标识/加速减速状态&lt;/p&gt;
 &lt;p&gt;碰撞时间/购买时间/碰撞状态/购买人性别/购买人出生年月日/车辆品牌/车辆系列/车里唯一标识&lt;/p&gt;
-&lt;h1 id=&quot;对杨学长前段工作的总结&quot;&gt;&lt;a
+&lt;h1
         
       
     
